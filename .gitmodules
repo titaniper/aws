@@ -1,0 +1,3 @@
+[submodule "localstack"]
+	path = localstack
+	url = git@github.com:titaniper/localstack.git
